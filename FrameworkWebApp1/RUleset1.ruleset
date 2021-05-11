@@ -66,5 +66,8 @@
   </Rules>
   <Rules AnalyzerId="Microsoft.CodeAnalysis.NetAnalyzers" RuleNamespace="Microsoft.CodeAnalysis.NetAnalyzers">
     <Rule Id="CA3006" Action="Error" />
+    <Rule Id="CA3009" Action="Error" />
+    <Rule Id="CA3011" Action="Error" />
+    <Rule Id="CA3012" Action="Error" />
   </Rules>
 </RuleSet>
